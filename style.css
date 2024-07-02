@@ -41,5 +41,24 @@ body{
 .display input{
     border: 0;
     outline: 0;
-    
+    font-size: 24px;
+}
+.container button img{
+    width: 28px;
+    margin-right: 10px;
+}
+.container button{
+    border: 0;
+    outline: 0;
+    background: #409f01;
+    color: #fff;
+    font-size: 22px;
+    height: 60px;
+    font-weight: 200;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 25px;
+    border-radius: 5px;
+    cursor: pointer;
 }
